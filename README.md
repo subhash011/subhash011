@@ -1,6 +1,6 @@
 ### Hi, This is Subhash 👋
 
-- 🔭 I’m currently studying at Indian Institute of Technology, Palakkad
+- 🔭 B.Tech CSE student at Indian Institute of Technology, Palakkad.
 - 📫 How to reach me: subhashs0620@gmail.com
 <!--
 **subhash011/subhash011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
