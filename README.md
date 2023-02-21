@@ -19,6 +19,11 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subhash011&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+<a href="https://github.com/kmitul">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=subhash011&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subhash011&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
 My portfolio @ https://subhash011.github.io/
 
 <!--
