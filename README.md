@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h2>Hi, This is Subhash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
   <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/subhashs0620/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    <a href="https://www.linkedin.com/in/subhashs0620/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:subhashs0620@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://instagram.com/subhash_011"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=subhash011&style=flat-square&color=blue" alt=""/>
 </div>
@@ -12,7 +12,6 @@
 ### :man_technologist: About Me :
 - Currently working as a Software Engineer @ Arista Networks
 - 🔭 B.Tech CSE from Indian Institute of Technology, Palakkad.
-- 📫 Reach me @subhashs0620@gmail.com
 - 😄 Pronouns: He/Him
 
 ### :fire: My Stats :
